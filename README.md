@@ -2,7 +2,7 @@
 
 **A Soroban prediction-market prototype for taking a position on a question and inspecting how it settles.** Built on Stellar, the project combines XLM pools, wallet-signed transactions, and contract-enforced payout accounting.
 
-> **Current status:** This is an early-stage Testnet prototype, not a live production market. The configured Testnet market has expired, the sample market catalog and rankings are illustrative, resolution uses authorized accounts, and the contracts have not received an independent security audit.
+
 
 ## Why Stellar Trade
 

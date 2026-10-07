@@ -19,8 +19,6 @@ frontend/out/
 frontend/node_modules/
 
 # ── Environment & Secrets ──────────────────────────────────────────────────────
-.env
-.env.local
 .env.*.local
 *.pem
 .deploy.env
@@ -51,3 +49,4 @@ branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+config.bat
